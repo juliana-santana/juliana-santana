@@ -1,7 +1,7 @@
 ### Hi there sou Juliana Santana 👋 
 
 
-- I'm an Application Tester.
+- I'm a Software Tester.
 
 - 🔭 I'm working at Hospidata as a Junior Test Analyst.
 
