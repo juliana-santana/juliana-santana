@@ -1,6 +1,6 @@
 ### Hi there sou Juliana Santana 👋 
 
--     I am that person who works to improve the quality of the software, finding the bug's contained since the beginning of its development.
+- I am that person who works to improve the quality of the software, finding the bug's contained since the beginning of its development.
 
 - 🔭 I’m currently on Hospidata
 
