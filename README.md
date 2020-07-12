@@ -15,8 +15,8 @@
 
 🔗 Aqui estão alguns dos meus links:
 
-[Linkedin](https://www.linkedin.com/in/juliana-santana-/)
+  °[Linkedin](https://www.linkedin.com/in/juliana-santana-/)
 
-*https://medium.com/@julianasantana75*
+  °[Medium](https://medium.com/@julianasantana75)
 
 -->
