@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. Watch Netflix, read about market news, and study.
 
 🔗 Aqui estão alguns dos meus links:
+
 *https://www.linkedin.com/in/juliana-santana-/*
+
 *https://medium.com/@julianasantana75*
 -->
