@@ -3,7 +3,7 @@
 
 - I'm a Software Tester.
 
-- 🔭 I'm working at Hospidata as a Junior Test Analyst.
+- 🔭 I'm working at Hospidata as a Junior Tests Analyst.
 
 - ⚡ Fun fact: I like to watch, chat with friends, study and always be aware of the news in the software quality market.
 
