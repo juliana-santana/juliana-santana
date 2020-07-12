@@ -5,13 +5,13 @@
 
 - 🔭 I’m work on Hospidata.
 
-- ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. I watched the series, read about the market news and study.
+- ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. Watch series, read about what's new in the market and be challenged.
 
 - 🌱 I’m learning about API testing and improving my knowledge of automated testing.
 
 - 👯 I am looking to collaborate with the community on software quality testing.
 
 
-- 🔗 Aqui estão alguns dos meus links:
+- 🔗 Here are some of my links:
     -  [Linkedin](https://www.linkedin.com/in/juliana-santana-/)
     -  [Medium](https://medium.com/@julianasantana75)
