@@ -1,7 +1,5 @@
 ### Hi there sou Juliana Santana 👋 
--
--
--
+
 
 - Sou Analista de Teste.
 
@@ -14,9 +12,6 @@
 - 👯 I am looking to collaborate with the community on software quality testing.
 
 
-
-
 - 🔗 Aqui estão alguns dos meus links:
-
     -  [Linkedin](https://www.linkedin.com/in/juliana-santana-/)
     -  [Medium](https://medium.com/@julianasantana75)
