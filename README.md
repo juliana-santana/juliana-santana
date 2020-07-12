@@ -1,7 +1,4 @@
 ### Hi there sou Juliana Santana 👋 
-**julianacarlas/julianacarlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Hospidata
 - 🌱 I’m currently learning about API testing and improving my knowledge of automated testing.
