@@ -1,8 +1,11 @@
 ### Hi there sou Juliana Santana 👋 
+-
+-
+-
 
-- I am that person who works to improve the quality of the software, finding the bug's contained since the beginning of its development.
+- Sou Analista de Teste.
 
-- 🔭 I’m currently on Hospidata
+- 🔭 I’m work on Hospidata.
 
 - ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. Watch series, read about market news, and study.
 
