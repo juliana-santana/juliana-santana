@@ -2,21 +2,9 @@
 
 
 
-
-
-
-
 - 🔭 I’m currently working on Hospidata as a Junior Testing Analyst.
 
-
-
-
-
 - ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. Watch series, read about market news, and study.
-
-
-
-
 
 - 🌱 I’m learning about API testing and improving my knowledge of automated testing.
 
@@ -27,7 +15,7 @@
 
 🔗 Aqui estão alguns dos meus links:
 
-*https://www.linkedin.com/in/juliana-santana-/*
+[go](https://www.linkedin.com/in/juliana-santana-/){:target="_blank"}.
 
 *https://medium.com/@julianasantana75*
 
