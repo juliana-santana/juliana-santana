@@ -6,10 +6,7 @@
 
 
 
-
-
 - 🔭 I’m currently working on Hospidata as a Junior Testing Analyst.
-
 
 
 
@@ -19,10 +16,11 @@
 
 
 
+
+
 - 🌱 I’m learning about API testing and improving my knowledge of automated testing.
+
 - 👯 I am looking to collaborate with the community on software quality testing.
-
-
 
 
 
