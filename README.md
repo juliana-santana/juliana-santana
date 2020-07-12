@@ -15,7 +15,7 @@
 
 🔗 Aqui estão alguns dos meus links:
 
-[go](https://www.linkedin.com/in/juliana-santana-/){:target="_blank"}.
+[Linkedin](https://www.linkedin.com/in/juliana-santana-/)
 
 *https://medium.com/@julianasantana75*
 
