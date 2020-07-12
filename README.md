@@ -5,11 +5,11 @@
 
 - 🔭 I’m work on Hospidata.
 
-- ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. Watch series, read market news and be challenged.
+- ⚡ Fun fact: I like to watch, chat with friends, study and always be aware of the news in the software quality market.
 
 - 🌱 I’m learning about API testing and improving my knowledge of automated testing.
 
-- 👯 I am looking to collaborate with the community on software quality testing.
+- 👯 Looking to collaborate with the community on software quality testing.
 
 
 - 🔗 Here are some of my links:
