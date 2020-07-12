@@ -1,9 +1,9 @@
 ### Hi there sou Juliana Santana 👋 
 
 
-- Sou Analista de Teste.
+- I'm an Application Tester.
 
-- 🔭 I’m work on Hospidata.
+- 🔭 I'm working at Hospidata as a Junior Test Analyst.
 
 - ⚡ Fun fact: I like to watch, chat with friends, study and always be aware of the news in the software quality market.
 
