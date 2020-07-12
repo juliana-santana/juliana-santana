@@ -5,7 +5,7 @@
 
 - 🔭 I’m work on Hospidata.
 
-- ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. Watch series, read about market news, and study.
+- ⚡ Fun fact: I like to learn new things, especially in the area of ​​software quality. I watched the series, read about the market news and study.
 
 - 🌱 I’m learning about API testing and improving my knowledge of automated testing.
 
