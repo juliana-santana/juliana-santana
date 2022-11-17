@@ -1,7 +1,7 @@
 ### Hi there sou Juliana Santana 👋 
 
 
-- I'm a Software Tester.
+- I'm a Quality Analyst Software and Tester.
 
 - 🔭 I'm working at Invillia as a Tests Analyst.
 
