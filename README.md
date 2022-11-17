@@ -1,13 +1,13 @@
 ### Hi there sou Juliana Santana 👋 
 
 
-- I'm a Quality Analyst Software and Tester.
+- I'm a Quality Analyst Software and Tester
 
 - 🔭 I'm working at Invillia as a Tests Analyst.
 
 - ⚡ Fun fact: I like to watch, chat with friends, study and always be aware of the news in the software quality market.
 
-- 🌱 I’m learning about API testing and improving my knowledge of automated testing.
+- 🌱 I’m improving my knowledge of automated testing.
 
 - 👯 Looking to collaborate with the community on software quality testing.
 
