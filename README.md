@@ -3,7 +3,7 @@
 
 - I'm a Quality Analyst Software and Tester
 
-- 🔭 I'm working at Invillia as a Tests Analyst.
+- 🔭 I'm a Tests Analyst.
 
 - ⚡ Fun fact: I like to watch, chat with friends, study and always be aware of the news in the software quality market.
 
